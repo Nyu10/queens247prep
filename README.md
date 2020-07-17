@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Queens 24/7 Prep
 <img align="left" src="/images/logo.png" width="300" height="300"/> Source code for our tutoring website: _https://queens247prep.com_. Learn more about us on our website!
 
@@ -10,3 +11,7 @@ Our discord server is the best way to get fast responses in homework help and ad
 
 ## One-on-One Tutoring
 Sign up for one-on-one tutoring sessions on our Google Form: _https://docs.google.com/forms/d/e/1FAIpQLSfyg9MbQQitFwouEFxI85VqV5ZcmsPC9RxeDini-1v01FugZA/viewform_
+=======
+# queens247prep
+Tutoring Service for Middle School to High School
+>>>>>>> d2758ebe7ba4891153bd0646968dd2c4d8fe4b3c
