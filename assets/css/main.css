@@ -2466,6 +2466,9 @@
 			padding: 0 0 1em 1.5em;
 			top: 0.25em;
 		}
+		.image.joseph {
+			float: right;
+		}
 
 		.image.fit {
 			display: block;
@@ -2477,7 +2480,6 @@
 				display: block;
 				width: 100%;
 			}
-
 /* List */
 
 	ol {
