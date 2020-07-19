@@ -2466,8 +2466,12 @@
 			padding: 0 0 1em 1.5em;
 			top: 0.25em;
 		}
-		.image.joseph {
+		.image.joseph{
+			max-width: 100%;
+			height: auto;
 			float: right;
+			padding: 0 50px 1em 50px;
+			top: 0.25em;
 		}
 
 		.image.fit {
