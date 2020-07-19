@@ -2466,12 +2466,18 @@
 			padding: 0 0 1em 1.5em;
 			top: 0.25em;
 		}
-		.image.joseph{
-			max-width: 100%;
+		.logga {
+			width: 100px;
+			height: 100px;
+			border: 1px solid #000;
+			margin-left: auto;
+			margin-right: auto;
+		}
+		
+		.logga img {
+			width: 40%;
 			height: auto;
-			float: right;
-			padding: 0 50px 1em 50px;
-			top: 0.25em;
+			text-decoration: none !important;
 		}
 
 		.image.fit {
