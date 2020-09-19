@@ -9,4 +9,4 @@ Queens 24/7 Prep is run by a group of passionate high school students who have f
 Our discord server is the best way to get fast responses in homework help and advice. We will also be hosting live streams. Join using this link: _https://discord.gg/recfJbP_.
 
 ## One-on-One Tutoring
-Sign up for one-on-one tutoring sessions on our Google Form: _https://docs.google.com/forms/d/e/1FAIpQLSfyg9MbQQitFwouEFxI85VqV5ZcmsPC9RxeDini-1v01FugZA/viewform_
+Sign up for one-on-one tutoring sessions on our Google Form: _https://docs.google.com/forms/d/e/1FAIpQLSe5CVAV_tNB2UiV8wilJoiHyT0zQYJHwmHjU97zOwd4z4vmNg/viewform_
