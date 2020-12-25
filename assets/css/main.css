@@ -5,6 +5,7 @@
 
 /* Based on meyerweb.com/eric/tools/css/reset (v2.0 | 20110126 | License: public domain) */
 
+
 	html, body, div, span, applet, object,
 	iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 	pre, a, abbr, acronym, address, big, cite,
@@ -2322,7 +2323,6 @@
 		.box.special {
 			text-align: center;
 		}
-
 		.box .image.featured {
 			border-radius: 0;
 			display: block;
@@ -2346,16 +2346,32 @@
 				.box .image.featured:first-child img {
 					border-radius: 6px 6px 0 0;
 				}
-
-			.box .image.featured:last-child {
-				border-radius: 0 0 6px 6px;
-				margin-bottom: -3em;
-				margin-top: 3em;
-			}
-
-				.box .image.featured:last-child img {
-					border-radius: 0 0 6px 6px;
+		.box .video.featured {
+					border-radius: 0;
+					display: block;
+					margin: 3em 0 3em -3em;
+					position: relative;
+					width: calc(100% + 6em);
+					height:25em;
 				}
+		
+					.box .video.featured img {
+						border-radius: 0;
+						display: block;
+						width: 100%;
+					}
+		
+					.box .video.featured:first-child {
+						border-radius: 6px 6px 0 0;
+						margin-bottom: 3em;
+						margin-top: -3em;
+					}
+		
+						.box .video.featured:first-child img {
+							border-radius: 6px 6px 0 0;
+						}
+
+
 
 /* Icon */
 
@@ -3740,6 +3756,20 @@
 						margin-bottom: -2em;
 						margin-top: 2em;
 					}
+					.box .video.featured {
+						margin-left: -2em;
+						width: calc(100% + 4em);
+					}
+	
+						.box .video.featured:first-child {
+							margin-bottom: 2em;
+							margin-top: -2em;
+						}
+	
+						.box .video.featured:last-child {
+							margin-bottom: -2em;
+							margin-top: 2em;
+						}
 
 		/* Banner */
 
@@ -3862,7 +3892,27 @@
 					margin: 3em 0 0 0 !important;
 					padding: 3em 0 0 0 !important;
 				}
+				
+				
+				.box .video.featured {
+					border-radius: 0;
+					margin-left: -1em;
+					width: calc(100% + 2em);
+				}
 
+					.box .video.featured img {
+						border-radius: 0 !important;
+					}
+
+					.box .video.featured:first-child {
+						margin-bottom: 3em;
+						margin-top: -3em;
+					}
+
+					.box .video.featured:last-child {
+						margin-bottom: -3em;
+						margin-top: 3em;
+					}
 				.box .image.featured {
 					border-radius: 0;
 					margin-left: -1em;
