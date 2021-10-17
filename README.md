@@ -1,5 +1,5 @@
 # Queens 24/7 Prep
-<img align="left" src="/images/logo.png" width="300" height="300"/> Source code for our tutoring website: _https://queens247prep.com_. Learn more about us on our website!
+<img align="left" src="/images/logo.png" width="300" height="300"/> Source code for our tutoring website: _https://nyu10.github.io/queens247prep/_. Learn more about us on our website!
 
 <br></br><br></br><br></br><br></br><br></br>
 ## Who We Are
