@@ -1,5 +1,6 @@
 # Queens 24/7 Prep
 <img align="left" src="/images/logo.png" width="300" height="300"/> Source code for our tutoring website: _https://nyu10.github.io/queens247prep/_. Learn more about us on our website!
+
 <p float="left">
   <img src="https://user-images.githubusercontent.com/43020289/149394279-d120ccb6-0428-43cc-8248-bf0b2eed30c3.png" width="450" />
   <img src="https://user-images.githubusercontent.com/43020289/149394305-6245d872-cf26-4926-a976-bdf804494ded.png" width="450" />
